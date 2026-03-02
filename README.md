@@ -10,7 +10,6 @@
 - Large Language Models & Agentic AI
 - Remote Sensing & Satellite Image Analysis
 - Speech & Audio Processing
-- Bibliometrics & Citation Network Analysis
 
 ## Featured Projects
 
