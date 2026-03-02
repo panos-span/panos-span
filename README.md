@@ -4,12 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-panagiotis--alexios--spanakis-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-alexios-spanakis/)
 [![Email](https://img.shields.io/badge/Email-spanakis01%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:spanakis01@gmail.com)
 
-## About
-
-**Machine Learning Engineer** at **Ernst & Young (EY)** and **Research Associate** at **BALab, AUEB**, based in Athens, Greece. MSc in Data Science and Machine Learning from the **National Technical University of Athens (NTUA)** (GPA: 9.5/10). BSc in Management Science and Technology from the **Athens University of Economics and Business (AUEB)** (GPA: 9.15/10), majoring in Software Engineering & Data Science.
-
-MSc thesis on agentic LLM systems secured a **Top 10 Global Ranking** in an international ML benchmark competition (SemEval-2026 Task 10), achieving >100% baseline improvement.
-
 ## Research Interests
 
 - Natural Language Processing (NLP) & Computational Psycholinguistics
