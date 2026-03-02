@@ -17,13 +17,11 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [PsyChoMark_Semeval](https://github.com/panos-span/PsyChoMark_Semeval) | Agentic LLM system for SemEval-2026 Task 10: two-stage pipeline with DD-CoT marker extraction and Anti-Echo Chamber council for conspiracy endorsement detection | PydanticAI, LangGraph, OpenAI API, ChromaDB |
-| [multi_agent_CoT](https://github.com/panos-span/multi_agent_CoT) | Multi-agent chain-of-thought reasoning experiments | LangChain, OpenAI API |
 | [satellite_imaging_vision](https://github.com/panos-span/satellite_imaging_vision) | U-Net with ResNet-50 encoder for Sentinel-2 land cover semantic segmentation (13-band, patch-based with overlap blending) | PyTorch, rasterio, NumPy, Matplotlib |
 | [multispectral_time_series](https://github.com/panos-span/multispectral_time_series) | Crop type classification from Sentinel-2 time series using Pixel Set Encoder + Transformer with sinusoidal positional encoding | PyTorch, NumPy, scikit-learn, Matplotlib |
 | [time_series_satellite](https://github.com/panos-span/time_series_satellite) | Geospatial analysis of the Kastoria region integrating multi-temporal Sentinel-2 imagery, meteorological data, and interactive web mapping | rasterio, Folium, Plotly, Pandas, NASA POWER API |
 | [rogets_thesaurus](https://github.com/panos-span/rogets_thesaurus) | Semantic clustering and classification of Roget's Thesaurus words using Nomic embeddings, ChromaDB, and Ollama Mistral | ChromaDB, Nomic, Ollama, scikit-learn, Poetry |
 | [sentiment_analysis](https://github.com/panos-span/sentiment_analysis) | Sentiment analysis with LSTMs, self-attention, transformers, and BERT fine-tuning on movie reviews and tweets | PyTorch, Hugging Face Transformers, NLTK, GloVe, OpenAI API |
-| [longformer_slp](https://github.com/panos-span/longformer_slp) | Replication of Longformer paper experiments (Tables 4/5) with masked language modeling on OpenWebText | PyTorch, Hugging Face Transformers, Datasets |
 | [voice_rnn_hmm](https://github.com/panos-span/voice_rnn_hmm) | Digit recognition using HMMs and RNNs (SimpleRNN, LSTM, GRU) with MFCC features | PyTorch, hmmlearn, librosa, scikit-learn, Matplotlib |
 | [speech_rec](https://github.com/panos-span/speech_rec) | End-to-end ASR pipeline with Kaldi: MFCC extraction, monophone/triphone HMM training, language model compilation, and DNN-HMM decoding | Kaldi, SRILM, Bash, PyTorch |
 | [music_sentiment_rec](https://github.com/panos-span/music_sentiment_rec) | Music genre classification and emotion prediction using LSTM, CNN, and Audio Spectrogram Transformer on mel spectrograms | PyTorch, librosa, scikit-learn, Matplotlib, Seaborn |
@@ -31,9 +29,6 @@
 | [mcml](https://github.com/panos-span/mcml) | ML classification/regression on IoT data with Quantization-Aware Training (QAT) for edge deployment on CICIoT2023 | PyTorch, scikit-learn, Pandas, Matplotlib |
 | [eigenfactor_analysis](https://github.com/panos-span/eigenfactor_analysis) | EigenFactor-adjusted H-Index computation and citation manipulation analysis on Crossref data via Alexandria3k with ROLAP queries | Alexandria3k, SQLite, Pandas, NetworkX, Matplotlib |
 | [custom_h5-index](https://github.com/panos-span/custom_h5-index) | Custom H5-Index, JIF-Index, and EigenFactor-Index implementations on Alexandria3k with citation network analysis and statistical testing | Alexandria3k, SQLite, SciPy, Pandas, Make |
-| [rag_app](https://github.com/panos-span/rag_app) | RAG PDF Q&A system using LangChain and LlamaIndex with local Mistral-7B via Ollama and ChromaDB vector store | LangChain, LlamaIndex, Ollama, ChromaDB |
-| [mlops-pipeline](https://github.com/panos-span/mlops-pipeline) | End-to-end MLOps pipeline with ZenML: data ingestion, cleaning, model training, evaluation, and deployment on Olist e-commerce data | ZenML, scikit-learn, MLflow, Streamlit |
-| [mlops-example-azureml](https://github.com/panos-span/mlops-example-azureml) | MLOps pipeline example on Azure ML with CI/CD pipelines, model training, and deployment automation | Azure ML SDK, scikit-learn, Azure Pipelines |
 | [Hack-you](https://github.com/panos-span/Hack-you) | Award-winning game development (3rd semester project) | Java, Swing |
 
 ## Professional Experience
