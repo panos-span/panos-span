@@ -34,7 +34,8 @@
 
 | Role | Organization | Period |
 |------|-------------|--------|
-| **Machine Learning Engineer** (GenAI & ML Production) | Ernst & Young (EY) | Sep 2024 -- Present |
+| **Machine Learning Engineer** | Navarino | May 2026 -- Present |
+| **Machine Learning Engineer** (GenAI & ML Production) | Ernst & Young (EY) | Sep 2025 -- May 2026 |
 | **Research Associate** (Data Pipelines & Anomaly Detection) | Business Analytics Lab (BALab), AUEB | Oct 2024 -- Jan 2026 |
 | **Data Science Intern** | Ernst & Young (EY) | Mar 2024 -- Aug 2024 |
 
